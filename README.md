@@ -5,17 +5,21 @@ The application allows users to register, log in, and chat in real-time.
 
 Features:
 
-User Registration
-User Login
-Real-time Chat
-User Authentication with JWT
-Password Encryption using bcrypt
-Profile Management
+User Registration,User Login,Real-time Chat,User Authentication with JWT,Password Encryption using bcrypt,Profile Management
 
 Technologies Used:
 
-Frontend: React.js
-Backend: Node.js, Express.js
-Database: MongoDB
-Authentication: JWT (JSON Web Tokens)
-Password Encryption: bcrypt
+Frontend:
+React.js 
+
+Backend: 
+Node.js, Express.js
+
+Database:
+MongoDB
+
+Authentication:
+JWT (JSON Web Tokens)
+
+Password Encryption: 
+bcrypt
